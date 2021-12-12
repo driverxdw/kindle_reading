@@ -5,3 +5,6 @@
 4、推送到gh-pages分支  
 5、博客平台链到gh-pages页面  
 整个构建、部署流程使用github actions完成
+
+# reference
+https://github.com/muzi502/kindle
